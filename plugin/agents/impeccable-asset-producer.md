@@ -1,8 +1,8 @@
 ---
 name: impeccable-asset-producer
 description: Produces clean reusable raster assets from approved Impeccable mock references without redesigning the direction.
-model: inherit
-effort: medium
+model: opus
+effort: high
 maxTurns: 24
 ---
 # Impeccable Asset Producer

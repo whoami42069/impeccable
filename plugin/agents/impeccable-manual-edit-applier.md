@@ -1,8 +1,8 @@
 ---
 name: impeccable-manual-edit-applier
 description: Applies leased Impeccable live manual copy-edit batches to source and returns canonical Apply results.
-model: inherit
-effort: medium
+model: opus
+effort: high
 maxTurns: 12
 ---
 # Impeccable Manual Edit Applier

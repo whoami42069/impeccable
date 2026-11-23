@@ -2,7 +2,7 @@
 name: impeccable-motion-reviewer
 description: Reviews captured Impeccable motion for continuity, timing, craft, and reduced-motion behavior, returning evidence-cited material fixes.
 tools: Read, Bash, Glob, Grep
-model: inherit
+model: opus
 effort: high
 maxTurns: 30
 ---
